@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1525917333 source:c:\users\freeware sys\homework2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"BizzarreNumber.h"
+
+1525917422 c:\users\freeware sys\homework2\bizzarrenumber.h
+
+1605804884 source:c:\users\berke\onedrive\masaüstü\homework2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"BizzarreNumber.c"
+
+1525943432 c:\users\berke\onedrive\masaüstü\homework2\bizzarrenumber.h
+
+1525965738 c:\users\berke\onedrive\masaüstü\homework2\bizzarrenumber.c
+	<stdio.h>
+	"BizzarreNumber.h"
+	<math.h>
+
